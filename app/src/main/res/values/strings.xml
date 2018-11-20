@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="bitcoin">Bitcoin adalah sebuah uang elektronik yang di buat pada tahun 2009 oleh Satoshi Nakamoto. Nama tersebut juga dikaitkan dengan perangkat lunak sumber terbuka yang dia rancang, dan juga menggunakan jaringan peer-ke-peer tanpa penyimpanan terpusat atau administrator tunggal di mana Departemen Keuangan Amerika Serikat menyebut bitcoin sebuah mata uang yang terdesentralisasi . Tidak seperti mata uang pada umumnya, bitcoin tidak tergantung dengan mempercayai penerbit utama. Bitcoin menggunakan sebuah database yang didistribusikan dan menyebar ke node-node dari sebuah jaringan P2P ke jurnal transaksi, dan menggunakan kriptografi untuk menyediakan fungsi-fungsi keamanan dasar, seperti memastikan bahwa bitcoin-bitcoin hanya dapat dihabiskan oleh orang memilikinya, dan tidak pernah boleh dilakukan lebih dari satu kali.
+</string>
+</resources>
